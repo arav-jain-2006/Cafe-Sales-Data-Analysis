@@ -19,15 +19,7 @@ This project analyzes a real‑world café transactions dataset to uncover sales
 - Pandas & NumPy  
 - Matplotlib & Seaborn  
 - scikit‑learn
-
----
-
-## 📁 Contents
-
-- `Data Analysis Mini Project.ipynb` — Complete analysis notebook  
-- Dataset from Kaggle  
-- Visualizations and modeling outputs
-
+  
 ---
 
 ## 🧪 Key Steps
